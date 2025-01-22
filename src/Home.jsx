@@ -15,6 +15,7 @@ const Home = () => {
     }
     
     
+    
     return (
         <div>
             <div className='totalbalance-view'>
